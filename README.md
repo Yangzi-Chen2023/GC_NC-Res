@@ -9,11 +9,12 @@ This part includes custom codes to predict the survival outcomes of GC patients.
 
 ## Python packages
 The following are the versions of Python packages:
-numpy==1.26.4
-scikit-learn==1.0.2
-scikit-survival==0.17.0
-eli5==0.11.0
-pandas==2.1.0
+- python=3.9.10
+- numpy==1.26.4
+- scikit-learn==1.0.2
+- scikit-survival==0.17.0
+- eli5==0.11.0
+- pandas==2.1.0
 
 ## Citation
 Chen, Y., Wang, B., Zhao, Y. et al. Metabolomic machine learning predictor for diagnosis and prognosis of gastric cancer. Nat Commun 15, 1657 (2024). https://doi.org/10.1038/s41467-024-46043-y
